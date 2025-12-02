@@ -77,7 +77,7 @@ CCIP supports various blockchain networks including:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/marksantiago02/CCIP-tutorial.git
+git clone https://github.com/<your-username>/CCIP-tutorial.git
 cd CCIP-tutorial
 ```
 
